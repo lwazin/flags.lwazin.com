@@ -105,7 +105,7 @@ class _WrapperPageState extends State<WrapperPage> {
                             width: 5,
                           ),
                           Text(
-                            "info@tenflagsthemepark.co.za",
+                            "info@tenflagsthemepark.com",
                             style: GoogleFonts.nobile(
                               textStyle: TextStyle(
                                 fontWeight: FontWeight.w500,
